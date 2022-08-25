@@ -1,0 +1,108 @@
+{
+  "cliCommandArgs": [
+    "fossa",
+    "analyze",
+    "--debug"
+  ],
+  "cliEnvironment": "prod",
+  "cliExitedFatally": false,
+  "cliResolvedConfig": {
+    "cmdConfig": {
+      "contents": {
+        "baseDir": {
+          "unBaseDir": "/Users/jlfa/Documents/Fossa/reactTictactoe/"
+        },
+        "experimental": {
+          "allowedGradleConfigs": null
+        },
+        "filterSet": {
+          "excludeFilters": {
+            "_combinedPaths": [],
+            "_combinedTargets": []
+          },
+          "includeFilters": {
+            "_combinedPaths": [],
+            "_combinedTargets": []
+          }
+        },
+        "includeAllDeps": {
+          "getFlag": false
+        },
+        "jsonOutput": {
+          "getFlag": false
+        },
+        "noDiscoveryExclusion": {
+          "getFlag": false
+        },
+        "projectRevision": {
+          "projectBranch": "master",
+          "projectName": "https://github.com/lfernandez79/reactTictactoe.git",
+          "projectRevision": "3cb39c916be6210a13d74a53b7e6ca104795896c"
+        },
+        "scanDestination": {
+          "contents": [
+            {
+              "apiKey": "<REDACTED>",
+              "uri": "Nothing"
+            },
+            {
+              "projectJiraKey": null,
+              "projectLink": null,
+              "projectPolicy": null,
+              "projectReleaseGroup": null,
+              "projectTeam": null,
+              "projectTitle": null,
+              "projectUrl": null
+            }
+          ],
+          "tag": "UploadScan"
+        },
+        "severity": "debug",
+        "unpackArchives": {
+          "getFlag": false
+        },
+        "vendoredDeps": {
+          "forceRescans": false,
+          "licenseScanMethod": null
+        },
+        "vsiOptions": {
+          "binaryDiscoveryEnabled": {
+            "getFlag": false
+          },
+          "dynamicLinkingTarget": {
+            "unDynamicLinkInspect": null
+          },
+          "iatAssertion": {
+            "unIATAssertion": null
+          },
+          "vsiAnalysisEnabled": {
+            "getFlag": false
+          },
+          "vsiSkipSet": {
+            "unVSISkipResolution": []
+          }
+        }
+      },
+      "tag": "Standard"
+    },
+    "cmdName": "analyze"
+  },
+  "cliStartedAt": "2022-07-26T20:15:05.591391Z",
+  "cliSystemInfo": {
+    "systemCapabilities": 8,
+    "systemInfoArch": "x86_64",
+    "systemInfoOs": "darwin",
+    "systemProcessors": 8
+  },
+  "cliTelLogs": [],
+  "cliTelemetryId": "09f2c780-e480-4509-b0aa-017ad261472f",
+  "cliTimedDurations": [
+    {
+      "computationName": "NpmProjectType",
+      "durationInSeconds": 0.182566
+    }
+  ],
+  "cliTotalDurationInSec": 21.749391,
+  "cliUsageCounter": {},
+  "cliVersion": "v3.3.8"
+}
