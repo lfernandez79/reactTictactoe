@@ -9,4 +9,9 @@
 * Class component
 * state - setState
 
+* Component function
+* Class component
+* state - setState
+
+
 ![ScreenShot](./src/screenTic.png)
