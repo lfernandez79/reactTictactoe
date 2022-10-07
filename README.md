@@ -13,6 +13,7 @@
 * Class component
 * state - setState
 * React
+* JQuery 
 
 
 ![ScreenShot](./src/screenTic.png)
