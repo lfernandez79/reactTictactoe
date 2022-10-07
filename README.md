@@ -12,6 +12,7 @@
 * Component function
 * Class component
 * state - setState
+* React
 
 
 ![ScreenShot](./src/screenTic.png)
